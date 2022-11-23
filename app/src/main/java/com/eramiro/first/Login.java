@@ -11,10 +11,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 import com.eramiro.first.R;
 
-/**
- * This is the login
- * @author eramiro
- */
+
 
 public class Login extends AppCompatActivity {
 

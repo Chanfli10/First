@@ -15,12 +15,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 import com.eramiro.first.R;
 
-/**
- *
- * @author eramiro
- * trabajando en mejora de la animación
- *
- */
+
 
 public class Splash extends AppCompatActivity {
 
